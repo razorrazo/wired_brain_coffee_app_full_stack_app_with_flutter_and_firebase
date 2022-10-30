@@ -1,0 +1,8 @@
+para configurar y crear el proyecto entre flutter y firebase debes seguir este tutorial
+
+https://www.youtube.com/watch?v=2vk1-aJEOIg
+
+
+al agregar autenticacion en buil.gradle se modifica el minSDK : minSdkVersion localProperties.getProperty('flutter.minSdkVersion')
+y en local proeprties se agrega: flutter.minSdkVersion=21
+

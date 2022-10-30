@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047406323160",
+    "project_id": "wired-brain-coffee-app",
+    "storage_bucket": "wired-brain-coffee-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047406323160:android:e645a82fa4c9c1258f3ead",
+        "android_client_info": {
+          "package_name": "com.marceloadrian.wired_brain_coffe_flutter_application.wired_brain_coffe_flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047406323160-3m3s5cn578svkpnm53polvpvrok94mrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXnm77I2dKOhyygTyItNfgRQDn3S2qd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047406323160-3m3s5cn578svkpnm53polvpvrok94mrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

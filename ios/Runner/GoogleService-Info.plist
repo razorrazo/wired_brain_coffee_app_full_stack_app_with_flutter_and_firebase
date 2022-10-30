@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1047406323160-du17ci8lhkimljibj2tctbs26iqsng12.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1047406323160-du17ci8lhkimljibj2tctbs26iqsng12</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCC4Y9LSuo6kkh5Bij0h1tEC-jHQJUVLsE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1047406323160</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.marceloadrian.wiredbraincoffeflutterapplication.wiredBrainCoffeFlutterApplication</string>
+	<key>PROJECT_ID</key>
+	<string>wired-brain-coffee-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wired-brain-coffee-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1047406323160:ios:6c2ee70ed3dab77b8f3ead</string>
+</dict>
+</plist>
